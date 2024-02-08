@@ -1,16 +1,4 @@
-# uber_driver_app
+# Uber - Driver App
 
-A new Flutter project.
+![4539b56e-0451-4ab5-9e46-9007f3b18742](https://github.com/hossammo-dev/uber_driver_app/assets/75223134/1152fd26-8ae5-48db-8c1e-9fc713f616fd)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
